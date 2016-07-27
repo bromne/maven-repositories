@@ -7,13 +7,13 @@
     <groupId>jp.bromne</groupId>
     <artifactId>jsonbase</artifactId>
     <packaging>jar</packaging>
-    <version>0.0.2</version>
+    <version>0.0.3</version>
     <name>JsonBase</name>
     <url>http://maven.apache.org</url>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <java.version>1.7</java.version>
+        <java.version>1.8</java.version>
         <github.global.host>api.github.com</github.global.host>
         <github.global.server>github</github.global.server>
         <github.global.repositoryName>maven-repositories</github.global.repositoryName>
