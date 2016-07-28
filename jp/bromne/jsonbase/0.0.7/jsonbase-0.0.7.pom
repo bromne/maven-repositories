@@ -76,7 +76,7 @@
                     <message>${project.name} ${project.version}</message>
                     <noJekyll>true</noJekyll>
                     <outputDirectory>${project.build.directory}/jsonbase</outputDirectory>
-                    <branch>refs/heads/maven</branch>
+                    <branch>refs/heads/gh-pages</branch>
                     <includes>
                         <include>**/*</include>
                     </includes>
