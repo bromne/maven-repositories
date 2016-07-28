@@ -77,6 +77,7 @@
                     <noJekyll>true</noJekyll>
                     <outputDirectory>${project.build.directory}/jsonbase</outputDirectory>
                     <branch>refs/heads/gh-pages</branch>
+                    <merge>true</merge>
                     <includes>
                         <include>**/*</include>
                     </includes>
